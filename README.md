@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jusas Tampubolon</h1>
-<h3 align="center">A passionate lear nerfrom Indonesia</h3>
+<h3 align="center">from Indonesia</h3>
 
 About me 👇
 
