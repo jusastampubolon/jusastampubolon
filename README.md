@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jusas Tampubolon</h1>
 <h3 align="center">from Indonesia</h3>
 
-About me 👇
+
 
 - 🧑 I am interested in Website & software Development, machine learning, I aspire to be a data scientist/analyst/engineer 
 - 📚 Study : Del Institute of Technology
