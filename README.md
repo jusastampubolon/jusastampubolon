@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jusas Tampubolon</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate lear nerfrom Indonesia</h3>
 
 About me 👇
 
-- 🧑 I am interested in Website Development and Software Development
+- 🧑 I am interested in Website & software Development, machine learning, I aspire to be a data scientist/analyst/engineer 
 - 📚 Study : Del Institute of Technology
 - 🏳 Country : Indonesia
 - 📧Email  : jusastampu11@gmail.com
