@@ -4,7 +4,6 @@
 
 
 - 🧑 I am interested in Website & software Development, machine learning, I aspire to be a data scientist/analyst/engineer 
-- 📚 Study : Del Institute of Technology
 - 🏳 Country : Indonesia
 - 📧Email  : jusastampu11@gmail.com
 
