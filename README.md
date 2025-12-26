@@ -3,9 +3,8 @@
 
 
 
-- 🧑 I am interested in Website & software Development, machine learning, I aspire to be a data scientist/analyst/engineer 
-- 🏳 Country : Indonesia
-- 📧Email  : jusastampu11@gmail.com
+ I am interested in Website & software Development, machine learning, I aspire to be a data scientist/analyst/engineer 
+ jusastampu11@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
